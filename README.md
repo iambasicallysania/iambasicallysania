@@ -18,7 +18,7 @@
 <a href="https://twitter.com/@sanesania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sanesania" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sania charpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sania charpe" height="30" width="40" /></a>
 <a href="https://instagram.com/iambasocally_sania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iambasocally_sania" height="30" width="40" /></a>
-generator/master/src/images/icons/Social/leet-code.svg" alt="iambasicallysania" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
